@@ -5,7 +5,7 @@
 ### 연락하기
 - [카카오톡](https://open.kakao.com/o/szCCpGCf)
 - [디스코드](https://www.discord.com/users/440129204739375126)
-
+[![카카오톡](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpxRbOhMFv4Y12kBkLQJCv-nysyssa0NuEA&usqp=CAU)](https://open.kakao.com/o/szCCpGCf)
 
 <!--
 **taeyoungkim1213/taeyoungkim1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
