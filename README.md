@@ -1,6 +1,11 @@
-### Hi there 👋
-<a href="https://www.discord.com/users/440129204739375126" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/>discode</a>
-<a href="https://open.kakao.com/o/szCCpGCf" target="blank"><img src="https://img.shields.io/badge/OPEN_KAKAO-blue?style=뱃지모양&logo=로고&logoColor=#FFCD00"/></a>
+# 안녕하세요! 백엔드 개발자를 꿈꾸는 김태영입니다! 👋
+
+저는 개발을 사랑하고 새로운 기술을 배우는 것을 즐깁니다. 여러분과의 협업 기회를 기다리고 있어요!
+
+### 연락하기
+- [카카오톡](https://open.kakao.com/o/szCCpGCf)
+- [디스코드](https://www.discord.com/users/440129204739375126)
+
 
 <!--
 **taeyoungkim1213/taeyoungkim1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
