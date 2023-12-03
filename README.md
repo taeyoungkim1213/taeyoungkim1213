@@ -5,7 +5,7 @@
 
 <h3>연락하기</h3>
 <a href="https://open.kakao.com/o/szCCpGCf">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpxRbOhMFv4Y12kBkLQJCv-nysyssa0NuEA&usqp=CAU" target="blank" alt="카카오톡" width="50">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpxRbOhMFv4Y12kBkLQJCv-nysyssa0NuEA&usqp=CAU" target="_blank" alt="카카오톡" width="50">
 </a>
 <a href="https://www.discord.com/users/440129204739375126">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIv40DHpX5Am7Bd2UgkwCz5jCTr0NkYMvViw&usqp=CAU" target="_blank" alt="디스코드" width="50">
