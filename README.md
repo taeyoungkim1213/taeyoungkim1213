@@ -11,9 +11,9 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIv40DHpX5Am7Bd2UgkwCz5jCTr0NkYMvViw&usqp=CAU" target="_blank" alt="디스코드" width="50">
 </a>
 
-!--타이틀 부분-->
+<!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=300&section=header&text=Kim Tae Young%20render&fontSize=90" />
 </div>
 
 <!--내용 부분-->
