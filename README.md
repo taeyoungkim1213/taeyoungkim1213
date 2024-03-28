@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&animation=twinkling&section=header&text=백엔드%20개발자-nl-김태영&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&animation=twinkling&section=header&text=백엔드%20개발자-nl-김태영&fontSize=90&fontColor=d6ace6" />
 </div>
 
 <!--내용 부분-->
