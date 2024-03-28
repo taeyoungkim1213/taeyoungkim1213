@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&animation=twinkling&section=header&text=백엔드%20개발자-nl-김태영&fontSize=90&fontColor=d6ace6" />
 </div>
 
-<!--내용 부분-->
+<!--
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -69,7 +69,7 @@
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-
+-->
 <p>저는 개발을 사랑하고 새로운 기술을 배우는 것을 즐깁니다. 여러분과의 협업 기회를 기다리고 있어요!</p>
  <a href="https://taeyoungkim1213.github.io/portfolio.github.io/" target="_blank">종합 포트폴리오 사이트 가기!!</a>
 
