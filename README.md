@@ -13,7 +13,7 @@
 
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=300&section=header&text=hi%20render&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=300&section=header&text=Kim&Tae&Young&fontSize=90" />
 </div>
 
 <!--내용 부분-->
