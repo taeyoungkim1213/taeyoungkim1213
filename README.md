@@ -71,8 +71,6 @@
 </div>
 -->
 <p>저는 개발을 사랑하고 새로운 기술을 배우는 것을 즐깁니다. 여러분과의 협업 기회를 기다리고 있어요!</p>
- <a href="https://taeyoungkim1213.github.io/portfolio.github.io/" target="_blank">종합 포트폴리오 사이트 가기!!</a>
- <br>
  <a href="https://taeyoungkim1213.github.io" target="_blank">기술 블로그!</a>
 
 <h3>연락하기</h3>
