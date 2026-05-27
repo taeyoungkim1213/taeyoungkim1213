@@ -3,7 +3,6 @@
 </p>
 
 # 안녕하세요! 백엔드 개발자 김태영입니다 👋
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Java+%2F+Spring+Boot+Developer;Keep+Growing+and+Learning!;안정적인+서비스를+지향합니다" alt="Typing SVG" />
 
 Java/Spring 기반으로 2년 4개월간 공공·교육 플랫폼의
 예약, 결제, 설문, 알림 등 핵심 서비스를 설계·구현·운영해왔습니다.
