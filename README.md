@@ -55,5 +55,5 @@ Java/Spring 기반으로 2년 4개월간 공공·교육 플랫폼의
 
 ### 📫 Contact
 
-- Email: kty991213@naver.com
+- Email: kty0618061815@gmail.com
 - GitHub: [github.com/taeyoungkim1213](https://github.com/taeyoungkim1213)
