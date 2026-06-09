@@ -41,7 +41,13 @@ Java/Spring 기반으로 2년 4개월간 공공·교육 플랫폼의
 
 | 프로젝트 | 설명 | 기술 |
 |---|---|---|
+| [ticketing-fifo-concurrency](https://github.com/taeyoungkim1213/ticketing-fifo-concurrency) | 선착순 티켓 발급 동시성 제어 | Spring## 📌 개인 Projects
+
+| *프로젝트* | *설명* | *기술* |
+| ----- | ----- | ----- |
 | [ticketing-fifo-concurrency](https://github.com/taeyoungkim1213/ticketing-fifo-concurrency) | 선착순 티켓 발급 동시성 제어 | Spring Boot, Redis 분산락, Hexagonal Architecture |
+| [weather-alert](https://github.com/taeyoungkim1213/weather-alert) | 날씨 기반 푸시 알림 서비스 | Spring Boot, Docker, GitHub Actions, FCM |
+| [stock-briefing](https://github.com/taeyoungkim1213/stock-briefing) | 매일 오전 8시 개인 주식 포트폴리오 맞춤형 시황 브리핑 서비스 | Spring Boot, Spring Scheduler, Java | Boot, Redis 분산락, Hexagonal Architecture |
 | weather-alert | 날씨 기반 푸시 알림 서비스 | Spring Boot, Docker, GitHub Actions, FCM |
 | [stock-briefing](https://github.com/taeyoungkim1213/stock-briefing) | 매일 오전 8시 개인 주식 포트폴리오 맞춤형 시황 브리핑 서비스 | Spring Boot, Spring Scheduler, Java |
 
